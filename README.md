@@ -1,0 +1,1 @@
+# springboot-aws-secrets-manager
